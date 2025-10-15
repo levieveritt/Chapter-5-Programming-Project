@@ -26,4 +26,4 @@ def main():
     print(f"  - {flour_needed:.2f} cups of flour")
 
 if __name__ == "__main__":
-    main()
+    main() assert
